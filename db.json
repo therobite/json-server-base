@@ -6,6 +6,30 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@kenzie.com.br",
+      "password": "$2a$10$hPmYacGGTOJCdzZpPQi3euegOAZN.arMxSvHP9C5VOzEp0WWSdCgO",
+      "id": 2
+    }
+  ],
+  "gamesPlayed": [
+    {
+      "game": "Fortnite",
+      "timePlayed": "13hrs",
+      "plataform": "PC",
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "pcSpecs": [
+    {
+      "CPU": "i7-3770k",
+      "motherboard": "z77x-d3h",
+      "RAM": "8gb",
+      "SSD": "240gb",
+      "userId": 1,
+      "id": 1
     }
   ]
 }
